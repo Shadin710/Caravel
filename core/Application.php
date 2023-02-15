@@ -1,5 +1,12 @@
 <?php
 
+
+/*
+@author: Shadin
+@package: app\core
+*/
+namespace app\core;
+
 class Application{
     public Router $router;
 
