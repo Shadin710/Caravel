@@ -1,0 +1,11 @@
+{
+    "name": "developer/web_framework",
+    "description": "this is a web framework just made it for fun",
+    "autoload": {
+        "psr-4": {
+            "Developer\\WebFramework\\": "src/",
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
